@@ -1,7 +1,7 @@
 <div align="center">
 
   <img 
-    src="./assets/pic.png" 
+    src="assets/windows-learn-banner.png" 
     alt="Windows Learn Banner" 
     width="100%"
   >
