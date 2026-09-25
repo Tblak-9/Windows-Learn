@@ -1,10 +1,6 @@
 <div align="center">
 
-  <img 
-    src="assets/windows-learn-banner.png" 
-    alt="Windows Learn Banner" 
-    width="100%"
-  >
+  ![Windows Learn Banner](assets/windows-learn-banner.png)
 
   <h1>🪟 Windows Learn</h1>
 
